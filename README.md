@@ -11,6 +11,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 1 | [Ethereum, por que ele existe](capitulos/01-ethereum-por-que-ele-existe.md) | Origem, The Merge, tokenomics do ETH |
 | 2 | [Proof-of-Stake por dentro](capitulos/02-proof-of-stake-por-dentro.md) | Validadores, slots, epochs, comitês, slashing |
 | 3 | [Staking líquido e Lido](capitulos/03-staking-liquido-e-lido.md) | stETH, rebase, saques, riscos e concentração |
+| 4 | [Restaking e EigenLayer](capitulos/04-restaking-e-eigenlayer.md) | AVSs, operator sets, stake único, LRTs e seus riscos |
 
 ## Como funciona
 
