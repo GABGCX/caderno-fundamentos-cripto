@@ -13,6 +13,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 3 | [Staking líquido e Lido](capitulos/03-staking-liquido-e-lido.md) | stETH, rebase, saques, riscos e concentração |
 | 4 | [Restaking e EigenLayer](capitulos/04-restaking-e-eigenlayer.md) | AVSs, operator sets, stake único, LRTs e seus riscos |
 | 5 | [Rollups e Layer 2, o conceito geral](capitulos/05-rollups-e-layer-2.md) | Sequenciador, prova de fraude vs. prova de validade, EIP-4844, framework Stages |
+| 6 | [Arbitrum em detalhe](capitulos/06-arbitrum-em-detalhe.md) | Nitro, jogo da bisseção, BoLD, AnyTrust e Nova, ARB DAO, Stylus |
 
 ## Como funciona
 
