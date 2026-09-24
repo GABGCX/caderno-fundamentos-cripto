@@ -15,6 +15,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 5 | [Rollups e Layer 2, o conceito geral](capitulos/05-rollups-e-layer-2.md) | Sequenciador, prova de fraude vs. prova de validade, EIP-4844, framework Stages |
 | 6 | [Arbitrum em detalhe](capitulos/06-arbitrum-em-detalhe.md) | Nitro, jogo da bisseção, BoLD, AnyTrust e Nova, ARB DAO, Stylus |
 | 7 | [Optimism e o Superchain](capitulos/07-optimism-e-o-superchain.md) | OP Stack, Bedrock, Cannon, Lei das Chains, RetroPGF, saída da Base em 2026 |
+| 8 | [Base em detalhe](capitulos/08-base-em-detalhe.md) | Origem na Coinbase, Smart Wallet, Flashblocks, saída do OP Stack, Azul, Base App |
 
 ## Como funciona
 
