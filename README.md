@@ -18,6 +18,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 8 | [Base em detalhe](capitulos/08-base-em-detalhe.md) | Origem na Coinbase, Smart Wallet, Flashblocks, saída do OP Stack, Azul, Base App |
 | 9 | [zk-Rollups vs. Rollups Otimistas](capitulos/09-zk-rollups-vs-rollups-otimistas.md) | Provas de validade, SNARK vs. STARK, tipos de zkEVM, panorama de 2026 |
 | 10 | [Glamsterdam, o próximo grande salto do Ethereum](capitulos/10-glamsterdam-proximo-salto-ethereum.md) | ePBS, Block-Level Access Lists, caminho para 200M de gas, cronograma de testnets |
+| 11 | [DeFi, AMMs e Pools de Liquidez](capitulos/11-defi-amms-pools-de-liquidez.md) | Uniswap V1 a V4, fórmula do produto constante, liquidez concentrada, perda impermanente, Curve StableSwap |
 
 ## Como funciona
 
