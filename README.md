@@ -23,6 +23,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 13 | [ETFs de ETH e a entrada institucional](capitulos/13-etfs-de-eth-e-a-entrada-institucional.md) | ETFs spot, criação/resgate in-kind, ETFs com staking, fila de validadores, tesourarias corporativas (DAT) |
 | 14 | [Stablecoins, USDC e o lastro em dólar](capitulos/14-stablecoins-usdc-e-o-lastro-em-dolar.md) | Circle, Centre Consortium, Circle Reserve Fund, depeg do SVB, blacklist, GENIUS Act |
 | 15 | [Stablecoins, DAI e a colateralização cripto](capitulos/15-dai-e-colateralizacao-cripto.md) | Vaults, razão de colateralização, Black Thursday, Peg Stability Module, rebranding para Sky (SKY, USDS) |
+| 16 | [EIP-1559 em profundidade, Base Fee e Priority Fee](capitulos/16-eip-1559-base-fee-priority-fee.md) | Leilão de primeiro preço, ajuste algorítmico da base fee, multiplicador de elasticidade, queima vs. emissão, manipulação teórica do base fee |
 
 ## Como funciona
 
