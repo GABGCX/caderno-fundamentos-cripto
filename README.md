@@ -21,6 +21,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 11 | [DeFi, AMMs e Pools de Liquidez](capitulos/11-defi-amms-pools-de-liquidez.md) | Uniswap V1 a V4, fórmula do produto constante, liquidez concentrada, perda impermanente, Curve StableSwap |
 | 12 | [DeFi, Protocolos de Empréstimo (Aave e Compound)](capitulos/12-defi-protocolos-emprestimo-aave-compound.md) | Pools de empréstimo, aToken/cToken, health factor, liquidação, flash loans, Compound III (Comet) |
 | 13 | [ETFs de ETH e a entrada institucional](capitulos/13-etfs-de-eth-e-a-entrada-institucional.md) | ETFs spot, criação/resgate in-kind, ETFs com staking, fila de validadores, tesourarias corporativas (DAT) |
+| 14 | [Stablecoins, USDC e o lastro em dólar](capitulos/14-stablecoins-usdc-e-o-lastro-em-dolar.md) | Circle, Centre Consortium, Circle Reserve Fund, depeg do SVB, blacklist, GENIUS Act |
 
 ## Como funciona
 
