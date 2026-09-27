@@ -25,6 +25,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 15 | [Stablecoins, DAI e a colateralização cripto](capitulos/15-dai-e-colateralizacao-cripto.md) | Vaults, razão de colateralização, Black Thursday, Peg Stability Module, rebranding para Sky (SKY, USDS) |
 | 16 | [EIP-1559 em profundidade, Base Fee e Priority Fee](capitulos/16-eip-1559-base-fee-priority-fee.md) | Leilão de primeiro preço, ajuste algorítmico da base fee, multiplicador de elasticidade, queima vs. emissão, manipulação teórica do base fee |
 | 17 | [MEV, o que é e como a rede tenta domar](capitulos/17-mev-o-que-e-como-a-rede-tenta-domar.md) | Flash Boys 2.0, Dark Forest, ataques sandwich, MEV-Boost, censura de relays, rumo ao ePBS e ao FOCIL |
+| 18 | [Tokenomics Avançada, Emissão, Vesting e Distribuição](capitulos/18-tokenomics-avancada-emissao-vesting-distribuicao.md) | Fair launch vs. premine, premine do ETH em 2015, cliff e vesting linear, UNI e ARB, token streaming com Sablier e Hedgey |
 
 ## Como funciona
 
