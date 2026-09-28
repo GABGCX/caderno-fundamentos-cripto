@@ -27,6 +27,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 17 | [MEV, o que é e como a rede tenta domar](capitulos/17-mev-o-que-e-como-a-rede-tenta-domar.md) | Flash Boys 2.0, Dark Forest, ataques sandwich, MEV-Boost, censura de relays, rumo ao ePBS e ao FOCIL |
 | 18 | [Tokenomics Avançada, Emissão, Vesting e Distribuição](capitulos/18-tokenomics-avancada-emissao-vesting-distribuicao.md) | Fair launch vs. premine, premine do ETH em 2015, cliff e vesting linear, UNI e ARB, token streaming com Sablier e Hedgey |
 | 19 | [Governança e DAOs, Como Funciona Votar On-Chain](capitulos/19-governanca-e-daos-votar-on-chain.md) | Contrato Governor, quorum e timelock, delegação, Snapshot, a UNIfication da Uniswap, Token House e Citizens' House, Security Council da Arbitrum |
+| 20 | [A História da The DAO e o Hard Fork de 2016](capitulos/20-a-historia-da-dao-e-o-hard-fork-de-2016.md) | Reentrância no contrato da The DAO, Robin Hood Group, soft fork abandonado, Carbonvote, hard fork no bloco 1.920.000, nascimento do Ethereum Classic, relatório da SEC |
 
 ## Como funciona
 
