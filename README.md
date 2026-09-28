@@ -28,6 +28,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 18 | [Tokenomics Avançada, Emissão, Vesting e Distribuição](capitulos/18-tokenomics-avancada-emissao-vesting-distribuicao.md) | Fair launch vs. premine, premine do ETH em 2015, cliff e vesting linear, UNI e ARB, token streaming com Sablier e Hedgey |
 | 19 | [Governança e DAOs, Como Funciona Votar On-Chain](capitulos/19-governanca-e-daos-votar-on-chain.md) | Contrato Governor, quorum e timelock, delegação, Snapshot, a UNIfication da Uniswap, Token House e Citizens' House, Security Council da Arbitrum |
 | 20 | [A História da The DAO e o Hard Fork de 2016](capitulos/20-a-historia-da-dao-e-o-hard-fork-de-2016.md) | Reentrância no contrato da The DAO, Robin Hood Group, soft fork abandonado, Carbonvote, hard fork no bloco 1.920.000, nascimento do Ethereum Classic, relatório da SEC |
+| 21 | [Contratos Inteligentes e a EVM, Como o Código Roda de Fato](capitulos/21-contratos-inteligentes-e-a-evm.md) | Yellow Paper, compilação Solidity para bytecode, stack/memory/storage/calldata, gás por opcode, EIP-2929, EOA vs. conta de contrato, ciclo de vida de uma transação, EOF |
 
 ## Como funciona
 
