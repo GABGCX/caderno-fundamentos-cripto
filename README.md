@@ -32,6 +32,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 22 | [Padrões de Token, ERC-20 e ERC-721 na Prática](capitulos/22-padroes-de-token-erc-20-erc-721-na-pratica.md) | Padrões como acordos públicos, approve e transferFrom, decimals, permit (ERC-2612), safeTransferFrom no ERC-721, metadados, ERC-1155 e ERC-4626 |
 | 23 | [Interoperabilidade, Pontes entre Chains e seus Riscos](capitulos/23-interoperabilidade-pontes-entre-chains-e-seus-riscos.md) | Lock-and-mint e burn-and-mint, confiança e verificação, Wormhole, Ronin, Nomad, perguntas para avaliar uma ponte |
 | 24 | [Contas Abstratas e a ERC-4337](capitulos/24-contas-abstratas-e-erc-4337.md) | EOA vs. conta de contrato, UserOperation, bundler, EntryPoint, paymaster, EIP-7702 e a Pectra, riscos de delegação |
+| 25 | [Oráculos e o Chainlink, Como o Mundo de Fora Entra no Contrato](capitulos/25-oraculos-e-chainlink.md) | Problema do oráculo, Data Feeds, limite de desvio e heartbeat, TWAP do Uniswap V3, manipulação no Mango Markets |
 
 ## Como funciona
 
