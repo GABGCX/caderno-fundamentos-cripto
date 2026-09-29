@@ -33,6 +33,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 23 | [Interoperabilidade, Pontes entre Chains e seus Riscos](capitulos/23-interoperabilidade-pontes-entre-chains-e-seus-riscos.md) | Lock-and-mint e burn-and-mint, confiança e verificação, Wormhole, Ronin, Nomad, perguntas para avaliar uma ponte |
 | 24 | [Contas Abstratas e a ERC-4337](capitulos/24-contas-abstratas-e-erc-4337.md) | EOA vs. conta de contrato, UserOperation, bundler, EntryPoint, paymaster, EIP-7702 e a Pectra, riscos de delegação |
 | 25 | [Oráculos e o Chainlink, Como o Mundo de Fora Entra no Contrato](capitulos/25-oraculos-e-chainlink.md) | Problema do oráculo, Data Feeds, limite de desvio e heartbeat, TWAP do Uniswap V3, manipulação no Mango Markets |
+| 26 | [Carteiras, Chaves, Seed Phrase e Custódia](capitulos/26-carteiras-chaves-seed-phrase-e-custodia.md) | Chave privada, endereço e EIP-55, BIP-39 e BIP-32, carteiras HD, modelos de custódia, multisig e ERC-1271 |
 
 ## Como funciona
 
