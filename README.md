@@ -36,6 +36,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 26 | [Carteiras, Chaves, Seed Phrase e Custódia](capitulos/26-carteiras-chaves-seed-phrase-e-custodia.md) | Chave privada, endereço e EIP-55, BIP-39 e BIP-32, carteiras HD, modelos de custódia, multisig e ERC-1271 |
 | 27 | [Golpes Comuns e Como Reconhecer](capitulos/27-golpes-comuns-e-como-reconhecer.md) | Personificação, aprovações enganosas e Permit2, envenenamento de endereço, pig butchering, hack da Bybit, hábitos de defesa |
 | 28 | [Clientes de Execução e Consenso, o Valor da Diversidade](capitulos/28-clientes-de-execucao-e-consenso-diversidade.md) | Engine API, limiares de 1/3 e 2/3, bugs do Prysm (2023 e Fusaka) e do Nethermind, dominância do Geth |
+| 29 | [Privacidade no Ethereum, Entre a Transparência e o Sigilo](capitulos/29-privacidade-no-ethereum.md) | Pseudonimato vs. anonimato, mixers e provas de conhecimento zero, linha do tempo jurídica do Tornado Cash, Privacy Pools, endereços furtivos (ERC-5564), Kohaku |
 
 ## Como funciona
 
