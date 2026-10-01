@@ -38,6 +38,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 28 | [Clientes de Execução e Consenso, o Valor da Diversidade](capitulos/28-clientes-de-execucao-e-consenso-diversidade.md) | Engine API, limiares de 1/3 e 2/3, bugs do Prysm (2023 e Fusaka) e do Nethermind, dominância do Geth |
 | 29 | [Privacidade no Ethereum, Entre a Transparência e o Sigilo](capitulos/29-privacidade-no-ethereum.md) | Pseudonimato vs. anonimato, mixers e provas de conhecimento zero, linha do tempo jurídica do Tornado Cash, Privacy Pools, endereços furtivos (ERC-5564), Kohaku |
 | 30 | [Tokenização de Ativos do Mundo Real, Quando o Título Vira Token](capitulos/30-tokenizacao-de-ativos-do-mundo-real.md) | RWAs, fundo BUIDL e BENJI, ERC-3643 e conformidade no contrato, tokens permissionados, riscos jurídicos e de custódia |
+| 31 | [NFTs além da Especulação, Identidade, Aluguel e Contas](capitulos/31-nfts-alem-da-especulacao.md) | ENS e Name Wrapper, royalties (ERC-2981) e o fim do Operator Filter, soulbound (ERC-5192), aluguel (ERC-4907), contas vinculadas a tokens (ERC-6551) |
 
 ## Como funciona
 
