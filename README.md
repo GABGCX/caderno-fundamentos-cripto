@@ -41,6 +41,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 31 | [NFTs além da Especulação, Identidade, Aluguel e Contas](capitulos/31-nfts-alem-da-especulacao.md) | ENS e Name Wrapper, royalties (ERC-2981) e o fim do Operator Filter, soulbound (ERC-5192), aluguel (ERC-4907), contas vinculadas a tokens (ERC-6551) |
 | 32 | [Ethereum e Solana, uma Comparação Estrutural](capitulos/32-ethereum-e-solana-comparacao-estrutural.md) | Camada base enxuta vs. rápida, Proof of History e Alpenglow (Votor), modelo de contas, isenção de aluguel, taxa de prioridade, Firedancer |
 | 33 | [Incidentes de Segurança Marcantes, Parity, Beanstalk e Euler](capitulos/33-incidentes-de-seguranca-marcantes-parity-beanstalk-euler.md) | Biblioteca compartilhada da Parity e o congelamento de 2017, voto emprestado na Beanstalk, função sem checagem de liquidez no Euler, práticas de defesa |
+| 34 | [Disponibilidade de Dados, Blobs e PeerDAS](capitulos/34-disponibilidade-de-dados-blobs-e-peerdas.md) | Blobs do EIP-4844, erasure coding, colunas e custódia, amostragem, forks BPO após a Fusaka |
 
 ## Como funciona
 
