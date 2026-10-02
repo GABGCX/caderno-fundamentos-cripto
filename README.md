@@ -42,6 +42,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 32 | [Ethereum e Solana, uma Comparação Estrutural](capitulos/32-ethereum-e-solana-comparacao-estrutural.md) | Camada base enxuta vs. rápida, Proof of History e Alpenglow (Votor), modelo de contas, isenção de aluguel, taxa de prioridade, Firedancer |
 | 33 | [Incidentes de Segurança Marcantes, Parity, Beanstalk e Euler](capitulos/33-incidentes-de-seguranca-marcantes-parity-beanstalk-euler.md) | Biblioteca compartilhada da Parity e o congelamento de 2017, voto emprestado na Beanstalk, função sem checagem de liquidez no Euler, práticas de defesa |
 | 34 | [Disponibilidade de Dados, Blobs e PeerDAS](capitulos/34-disponibilidade-de-dados-blobs-e-peerdas.md) | Blobs do EIP-4844, erasure coding, colunas e custódia, amostragem, forks BPO após a Fusaka |
+| 35 | [Taxas de Gás na Prática, Como Ler e Como Economizar](capitulos/35-taxas-de-gas-na-pratica.md) | Gás usado vs. preço por unidade, limite e teto na carteira, custos por operação, piso de calldata (EIP-7623), reembolsos (EIP-3529), como reduzir a conta, EIP-2780 |
 
 ## Como funciona
 
