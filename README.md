@@ -44,6 +44,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 34 | [Disponibilidade de Dados, Blobs e PeerDAS](capitulos/34-disponibilidade-de-dados-blobs-e-peerdas.md) | Blobs do EIP-4844, erasure coding, colunas e custódia, amostragem, forks BPO após a Fusaka |
 | 35 | [Taxas de Gás na Prática, Como Ler e Como Economizar](capitulos/35-taxas-de-gas-na-pratica.md) | Gás usado vs. preço por unidade, limite e teto na carteira, custos por operação, piso de calldata (EIP-7623), reembolsos (EIP-3529), como reduzir a conta, EIP-2780 |
 | 36 | [Bitcoin e Ethereum, uma Comparação Estrutural](capitulos/36-bitcoin-e-ethereum-comparacao-estrutural.md) | UTXO vs. contas, Script e Taproot vs. EVM, proof-of-work vs. proof-of-stake, halving e política monetária, SegWit, cultura de mudança |
+| 37 | [Estado, Statelessness e Expiração de Histórico](capitulos/37-estado-statelessness-e-expiracao-de-historico.md) | Estado vs. histórico, testemunhas, Verkle (EIP-6800) e árvore binária (EIP-7864), expiração de estado, EIP-4444, Portal Network |
 
 ## Como funciona
 
