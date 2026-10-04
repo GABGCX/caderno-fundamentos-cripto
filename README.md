@@ -46,6 +46,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 36 | [Bitcoin e Ethereum, uma Comparação Estrutural](capitulos/36-bitcoin-e-ethereum-comparacao-estrutural.md) | UTXO vs. contas, Script e Taproot vs. EVM, proof-of-work vs. proof-of-stake, halving e política monetária, SegWit, cultura de mudança |
 | 37 | [Estado, Statelessness e Expiração de Histórico](capitulos/37-estado-statelessness-e-expiracao-de-historico.md) | Estado vs. histórico, testemunhas, Verkle (EIP-6800) e árvore binária (EIP-7864), expiração de estado, EIP-4444, Portal Network |
 | 38 | [ePBS por Dentro, Lance do Builder e Comitê de Payload](capitulos/38-epbs-por-dentro-lance-builder-e-comite-de-payload.md) | EIP-7732, builders com stake, lance assinado, envelope de payload, PTC, validação adiada, slot cheio/vazio/ignorado |
+| 39 | [Block-Level Access Lists, o Mapa que Permite Executar em Paralelo](capitulos/39-block-level-access-lists-e-execucao-paralela.md) | EIP-7928, hash no cabeçalho, BlockAccessIndex, leitura de disco e execução em paralelo, limite atrelado ao gás, custo de propagação |
 
 ## Como funciona
 
