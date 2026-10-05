@@ -50,6 +50,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 40 | [Pectra e o Staking, MaxEB, Consolidação e Saídas pela Camada de Execução](capitulos/40-pectra-e-o-staking-maxeb-consolidacao-e-saidas.md) | EIP-7251 (teto de 2.048 ETH, credencial 0x02, consolidação), EIP-7002 (saída via contrato), EIP-6110 (depósitos no bloco), limites de churn por peso |
 | 41 | [Fusaka por Dentro, o Pacote que Foi Além do PeerDAS](capitulos/41-fusaka-por-dentro-o-pacote-alem-do-peerdas.md) | Limite de gás por transação (EIP-7825), bloco de 8 MiB, MODEXP, piso do blob (EIP-7918), CLZ, secp256r1 e passkeys, proponentes previsíveis |
 | 42 | [FOCIL e a Hegotá, Listas de Inclusão contra a Censura](capitulos/42-focil-e-a-hegota-listas-de-inclusao-contra-a-censura.md) | EIP-7805, comitê de 16 membros, listas de 8 KiB, relógio do slot, inclusão condicional, equivocação, escopo da Hegotá |
+| 43 | [Glamsterdam além das Manchetes, Quanto Custa Criar e Ler Estado](capitulos/43-glamsterdam-alem-das-manchetes-precificacao-de-estado.md) | Escopo da EIP-7773, CPSB e gás de estado (EIP-8037), custo de acesso (EIP-8038), reembolsos fora do bloco (EIP-7778), churn de saída (EIP-8061) |
 
 ## Como funciona
 
