@@ -49,6 +49,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 39 | [Block-Level Access Lists, o Mapa que Permite Executar em Paralelo](capitulos/39-block-level-access-lists-e-execucao-paralela.md) | EIP-7928, hash no cabeçalho, BlockAccessIndex, leitura de disco e execução em paralelo, limite atrelado ao gás, custo de propagação |
 | 40 | [Pectra e o Staking, MaxEB, Consolidação e Saídas pela Camada de Execução](capitulos/40-pectra-e-o-staking-maxeb-consolidacao-e-saidas.md) | EIP-7251 (teto de 2.048 ETH, credencial 0x02, consolidação), EIP-7002 (saída via contrato), EIP-6110 (depósitos no bloco), limites de churn por peso |
 | 41 | [Fusaka por Dentro, o Pacote que Foi Além do PeerDAS](capitulos/41-fusaka-por-dentro-o-pacote-alem-do-peerdas.md) | Limite de gás por transação (EIP-7825), bloco de 8 MiB, MODEXP, piso do blob (EIP-7918), CLZ, secp256r1 e passkeys, proponentes previsíveis |
+| 42 | [FOCIL e a Hegotá, Listas de Inclusão contra a Censura](capitulos/42-focil-e-a-hegota-listas-de-inclusao-contra-a-censura.md) | EIP-7805, comitê de 16 membros, listas de 8 KiB, relógio do slot, inclusão condicional, equivocação, escopo da Hegotá |
 
 ## Como funciona
 
