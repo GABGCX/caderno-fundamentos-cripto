@@ -48,6 +48,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 38 | [ePBS por Dentro, Lance do Builder e Comitê de Payload](capitulos/38-epbs-por-dentro-lance-builder-e-comite-de-payload.md) | EIP-7732, builders com stake, lance assinado, envelope de payload, PTC, validação adiada, slot cheio/vazio/ignorado |
 | 39 | [Block-Level Access Lists, o Mapa que Permite Executar em Paralelo](capitulos/39-block-level-access-lists-e-execucao-paralela.md) | EIP-7928, hash no cabeçalho, BlockAccessIndex, leitura de disco e execução em paralelo, limite atrelado ao gás, custo de propagação |
 | 40 | [Pectra e o Staking, MaxEB, Consolidação e Saídas pela Camada de Execução](capitulos/40-pectra-e-o-staking-maxeb-consolidacao-e-saidas.md) | EIP-7251 (teto de 2.048 ETH, credencial 0x02, consolidação), EIP-7002 (saída via contrato), EIP-6110 (depósitos no bloco), limites de churn por peso |
+| 41 | [Fusaka por Dentro, o Pacote que Foi Além do PeerDAS](capitulos/41-fusaka-por-dentro-o-pacote-alem-do-peerdas.md) | Limite de gás por transação (EIP-7825), bloco de 8 MiB, MODEXP, piso do blob (EIP-7918), CLZ, secp256r1 e passkeys, proponentes previsíveis |
 
 ## Como funciona
 
