@@ -52,6 +52,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 42 | [FOCIL e a Hegotá, Listas de Inclusão contra a Censura](capitulos/42-focil-e-a-hegota-listas-de-inclusao-contra-a-censura.md) | EIP-7805, comitê de 16 membros, listas de 8 KiB, relógio do slot, inclusão condicional, equivocação, escopo da Hegotá |
 | 43 | [Glamsterdam além das Manchetes, Quanto Custa Criar e Ler Estado](capitulos/43-glamsterdam-alem-das-manchetes-precificacao-de-estado.md) | Escopo da EIP-7773, CPSB e gás de estado (EIP-8037), custo de acesso (EIP-8038), reembolsos fora do bloco (EIP-7778), churn de saída (EIP-8061) |
 | 44 | [Computação Quântica e o Futuro Pós-Quântico do Ethereum](capitulos/44-computacao-quantica-e-o-futuro-pos-quantico-do-ethereum.md) | Shor e Grover, exposição de ECDSA, BLS e KZG, leanXMSS e leanVM, ML-DSA (EIP-8355), transação de quadros (EIP-8141), cronograma até 2029, hard fork de recuperação |
+| 45 | [Intenções entre Chains, ERC-7683 e a Corrida pela Interoperabilidade Padronizada](capitulos/45-intencoes-entre-chains-erc-7683-e-interoperabilidade-padronizada.md) | Intents e solvers, resolvedores, ERC-7683, endereços interoperáveis (ERC-7930), mensagens entre chains (ERC-7786), onde o risco se desloca |
 
 ## Como funciona
 
