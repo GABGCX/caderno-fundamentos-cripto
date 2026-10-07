@@ -54,6 +54,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 44 | [Computação Quântica e o Futuro Pós-Quântico do Ethereum](capitulos/44-computacao-quantica-e-o-futuro-pos-quantico-do-ethereum.md) | Shor e Grover, exposição de ECDSA, BLS e KZG, leanXMSS e leanVM, ML-DSA (EIP-8355), transação de quadros (EIP-8141), cronograma até 2029, hard fork de recuperação |
 | 45 | [Intenções entre Chains, ERC-7683 e a Corrida pela Interoperabilidade Padronizada](capitulos/45-intencoes-entre-chains-erc-7683-e-interoperabilidade-padronizada.md) | Intents e solvers, resolvedores, ERC-7683, endereços interoperáveis (ERC-7930), mensagens entre chains (ERC-7786), onde o risco se desloca |
 | 46 | [Como um Hard Fork Chega à Mainnet, Devnets, Testnets e o Caso Glamsterdam](capitulos/46-como-um-hard-fork-chega-a-mainnet-devnets-testnets-e-o-caso-glamsterdam.md) | Estágios do EIP-7723, devnets, Sepolia vs. Hoodi, calendários do Pectra e do Fusaka, meta EIP do Glamsterdam, Sepolia em 6 de outubro de 2026 |
+| 47 | [zkAPI, Pagar por Uso sem Revelar Quem Paga](capitulos/47-zkapi-pagar-por-uso-sem-revelar-identidade.md) | Lançamento na mainnet em 1º de outubro de 2026, notas e nullifiers, compromissos de Pedersen, preço via Chainlink, saque de escape e janela de contestação, limites de privacidade |
 
 ## Como funciona
 
