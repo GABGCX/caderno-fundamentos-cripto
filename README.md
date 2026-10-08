@@ -57,6 +57,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 47 | [zkAPI, Pagar por Uso sem Revelar Quem Paga](capitulos/47-zkapi-pagar-por-uso-sem-revelar-identidade.md) | Lançamento na mainnet em 1º de outubro de 2026, notas e nullifiers, compromissos de Pedersen, preço via Chainlink, saque de escape e janela de contestação, limites de privacidade |
 | 48 | [De Onde Vem o Rendimento do Staking, e o Debate da EIP-8363](capitulos/48-de-onde-vem-o-rendimento-do-staking-e-a-eip-8363.md) | Recompensa-base e raiz do stake, pesos 14/26/14/2/8, rendimento e emissão em função do stake, EIP-8363 (queima gradual), saturação em 60,25 milhões de ETH, críticas |
 | 49 | [Quando um Operador de Staking é Comprometido, o Caso MetaMask e a Fila de Saída](capitulos/49-incidente-metamask-staking-saidas-em-massa-e-fila-de-saida.md) | Incidente de 30 de setembro de 2026, chave de assinatura vs. credencial de saque vs. destinatário das taxas, cálculo da fila de saída (256 ETH por época), staking não custodial |
+| 50 | [Quando um Layer 2 Fecha as Portas, o Caso Blast](capitulos/50-quando-um-layer-2-fecha-as-portas-o-caso-blast.md) | Encerramento anunciado em 2 de outubro de 2026, rendimento nativo e pontos, economia de uma L2, pausa para desmontar a posição na Lido, prazo de 26 de outubro, perguntas para avaliar uma L2 |
 
 ## Como funciona
 
