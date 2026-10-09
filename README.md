@@ -61,6 +61,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 51 | [Futuros Perpétuos, Liquidações em Cascata e o 10 de Outubro de 2025](capitulos/51-futuros-perpetuos-liquidacoes-em-cascata-e-o-10-de-outubro.md) | Contratos perpétuos, funding rate, margem e liquidação, fundo de seguro, ADL, o episódio de US$ 19 bi e a disputa sobre a causa |
 | 52 | [ETFs Alavancados de ETH, Reset Diário e o Arrasto da Volatilidade](capitulos/52-etfs-alavancados-de-eth-reset-diario-e-arrasto-da-volatilidade.md) | Aprovação de 3x pela SEC em 2 de outubro de 2026, Regra 18f-4, reset diário, retorno composto, arrasto da volatilidade, como ler o prospecto |
 | 53 | [Tesourarias Corporativas de ETH, o mNAV e o Teto de 5% da BitMine](capitulos/53-tesourarias-corporativas-de-eth-mnav-e-o-teto-de-5-por-cento.md) | DATs, financiamento, mNAV, emissão acretiva vs. diluição, staking via MAVAN, teto de 5% da oferta, comparação de formas de exposição |
+| 54 | ["Bunker Mode", Quando a Ameaça Pode Ser Matemática e Não Quântica](capitulos/54-bunker-mode-quando-a-ameaca-e-matematica-e-nao-quantica.md) | Alerta de Justin Drake de 7 de outubro de 2026, respostas de Buterin e Lindell, endereços que nunca assinaram, exposição da chave pública, riscos da migração |
 
 ## Como funciona
 
