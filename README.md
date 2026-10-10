@@ -64,6 +64,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 54 | ["Bunker Mode", Quando a Ameaça Pode Ser Matemática e Não Quântica](capitulos/54-bunker-mode-quando-a-ameaca-e-matematica-e-nao-quantica.md) | Alerta de Justin Drake de 7 de outubro de 2026, respostas de Buterin e Lindell, endereços que nunca assinaram, exposição da chave pública, riscos da migração |
 | 55 | [Provas ZK no L1, zkEVM e as Provas de Execução Opcionais (EIP-8025)](capitulos/55-provas-zk-do-l1-zkevm-e-a-eip-8025.md) | Reexecução N de N vs. 1 de N, provador, metas de tempo real (10 s, 300 KiB, 10 kW), zkVMs em RISC-V, EIP-8025 opcional, fallback e relação com a Hegotá |
 | 56 | [Rollups Baseados e Pré-Confirmações, Quando a L1 Ordena a L2](capitulos/56-rollups-baseados-e-pre-confirmacoes.md) | Sequenciamento pela L1, vantagens e custos, pré-confirmações e preconfers, EIP-7917, EIP-7547 vs. FOCIL, o caso Taiko |
+| 57 | [Validadores Distribuídos (DVT), Quando a Chave do Validador Vive em Várias Máquinas](capitulos/57-dvt-validadores-distribuidos-obol-e-ssv.md) | Chave dividida em partes, limiar e 3f+1, Obol (Charon) e SSV, Simple DVT da Lido, limites da DVT |
 
 ## Como funciona
 
