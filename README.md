@@ -65,6 +65,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 55 | [Provas ZK no L1, zkEVM e as Provas de Execução Opcionais (EIP-8025)](capitulos/55-provas-zk-do-l1-zkevm-e-a-eip-8025.md) | Reexecução N de N vs. 1 de N, provador, metas de tempo real (10 s, 300 KiB, 10 kW), zkVMs em RISC-V, EIP-8025 opcional, fallback e relação com a Hegotá |
 | 56 | [Rollups Baseados e Pré-Confirmações, Quando a L1 Ordena a L2](capitulos/56-rollups-baseados-e-pre-confirmacoes.md) | Sequenciamento pela L1, vantagens e custos, pré-confirmações e preconfers, EIP-7917, EIP-7547 vs. FOCIL, o caso Taiko |
 | 57 | [Validadores Distribuídos (DVT), Quando a Chave do Validador Vive em Várias Máquinas](capitulos/57-dvt-validadores-distribuidos-obol-e-ssv.md) | Chave dividida em partes, limiar e 3f+1, Obol (Charon) e SSV, Simple DVT da Lido, limites da DVT |
+| 58 | [Ethena e o USDe, o Dólar Sintético e o Hedge Delta-Neutro](capitulos/58-ethena-usde-dolar-sintetico-e-hedge-delta-neutro.md) | Posição vendida em perpétuos, funding e staking como rendimento, sUSDe e cooldown de 7 dias, custódia fora da corretora, USDe em 10 de outubro de 2025 |
 
 ## Como funciona
 
