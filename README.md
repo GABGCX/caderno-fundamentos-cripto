@@ -67,6 +67,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 57 | [Validadores Distribuídos (DVT), Quando a Chave do Validador Vive em Várias Máquinas](capitulos/57-dvt-validadores-distribuidos-obol-e-ssv.md) | Chave dividida em partes, limiar e 3f+1, Obol (Charon) e SSV, Simple DVT da Lido, limites da DVT |
 | 58 | [Ethena e o USDe, o Dólar Sintético e o Hedge Delta-Neutro](capitulos/58-ethena-usde-dolar-sintetico-e-hedge-delta-neutro.md) | Posição vendida em perpétuos, funding e staking como rendimento, sUSDe e cooldown de 7 dias, custódia fora da corretora, USDe em 10 de outubro de 2025 |
 | 59 | [Morpho, Mercados Isolados e Cofres Curados](capitulos/59-morpho-mercados-isolados-e-cofres-curados.md) | Morpho Blue e os cinco parâmetros imutáveis, LLTV e fator de incentivo de liquidação, cofres curados (curador, alocador, timelock), Vaults V2, caso Stream Finance e o xUSD |
+| 60 | [Clientes Leves e Comitês de Sincronização, Verificar o Ethereum sem Rodar um Nó](capitulos/60-clientes-leves-e-comites-de-sincronizacao.md) | Confiança no RPC, eth_getProof, raiz confiável, comitê de 512 por 256 epochs, atualização otimista vs. de finalidade, Helios, rascunho EIP-8390 |
 
 ## Como funciona
 
