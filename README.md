@@ -69,6 +69,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 59 | [Morpho, Mercados Isolados e Cofres Curados](capitulos/59-morpho-mercados-isolados-e-cofres-curados.md) | Morpho Blue e os cinco parâmetros imutáveis, LLTV e fator de incentivo de liquidação, cofres curados (curador, alocador, timelock), Vaults V2, caso Stream Finance e o xUSD |
 | 60 | [Clientes Leves e Comitês de Sincronização, Verificar o Ethereum sem Rodar um Nó](capitulos/60-clientes-leves-e-comites-de-sincronizacao.md) | Confiança no RPC, eth_getProof, raiz confiável, comitê de 512 por 256 epochs, atualização otimista vs. de finalidade, Helios, rascunho EIP-8390 |
 | 61 | [O Vazamento por Inatividade, Quando a Finalidade Para e a Rede Precisa se Curar](capitulos/61-vazamento-por-inatividade-e-a-finalidade-em-crise.md) | Atraso de finalidade acima de 4 epochs, pontuação de inatividade, penalidade quadrática, tempo para a cura (8 a 21 dias), Prysm e Teku em maio de 2023, riscos do desenho |
+| 62 | [A Escolha da Cadeia, LMD-GHOST, Proposer Boost e as Reorganizações](capitulos/62-escolha-de-cadeia-lmd-ghost-proposer-boost-e-reorgs.md) | Atestação (cabeça, origem, alvo), LMD-GHOST, FFG como ponto de partida, proposer boost de 40%, reorgs ex-ante, reorg honesta (get_proposer_head), Goldfish e SSF |
 
 ## Como funciona
 
