@@ -72,6 +72,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 62 | [A Escolha da Cadeia, LMD-GHOST, Proposer Boost e as Reorganizações](capitulos/62-escolha-de-cadeia-lmd-ghost-proposer-boost-e-reorgs.md) | Atestação (cabeça, origem, alvo), LMD-GHOST, FFG como ponto de partida, proposer boost de 40%, reorgs ex-ante, reorg honesta (get_proposer_head), Goldfish e SSF |
 | 63 | [Casper FFG por Dentro, Justificação, Finalização e as Duas Regras que Dão Dentes à Finalidade](capitulos/63-casper-ffg-justificacao-finalizacao-e-slashing.md) | Ligações de supermaioria, condição de 2/3, bits de justificação, argumento da interseção de 1/3, voto duplo e voto envolvente, atraso de finalidade |
 | 64 | [RANDAO, a Aleatoriedade do Consenso e os Cuidados com o PREVRANDAO](capitulos/64-randao-aleatoriedade-no-consenso-e-prevrandao.md) | randao_reveal e mistura por XOR, semente e sorteios, viés de um bit, proposer_lookahead (EIP-7917), PREVRANDAO (EIP-4399) e seus cuidados |
+| 65 | [Subjetividade Fraca e Checkpoint Sync, Por que um Nó Novo Precisa de um Ponto de Partida Confiável](capitulos/65-subjetividade-fraca-e-checkpoint-sync.md) | Ataque de longo alcance, checkpoint de subjetividade fraca, período e SAFETY_DECAY, tabela da especificação, checkpoint sync nos clientes, onde está a confiança |
 
 ## Como funciona
 
