@@ -75,6 +75,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 65 | [Subjetividade Fraca e Checkpoint Sync, Por que um Nó Novo Precisa de um Ponto de Partida Confiável](capitulos/65-subjetividade-fraca-e-checkpoint-sync.md) | Ataque de longo alcance, checkpoint de subjetividade fraca, período e SAFETY_DECAY, tabela da especificação, checkpoint sync nos clientes, onde está a confiança |
 | 66 | [A Camada de Rede, Como os Nós se Encontram e Como Blocos e Atestações Viajam](capitulos/66-a-camada-de-rede-p2p-discv5-gossipsub-e-propagacao.md) | ENR, discv5 e distância XOR, RLPx e gossip de transações, gossipsub, 64 sub-redes de atestação, agregadores, Req/Resp |
 | 67 | [Tipos de Transação, o Envelope Tipado da EIP-2718 e Seus Cinco Formatos](capitulos/67-tipos-de-transacao-eip-2718-e-o-envelope-tipado.md) | Envelope TipoDaTransacao e carga, tipos 0 a 4, lista de acesso, preço efetivo com base fee, hashes versionados de blobs, delegação da EIP-7702 |
+| 68 | [Eventos, Logs e Filtros de Bloom, Como um Contrato Deixa Rastro](capitulos/68-eventos-logs-e-filtros-de-bloom.md) | LOG0 a LOG4, tópicos vs. dados, parâmetros indexed, eventos anônimos, Transfer/Approval do ERC-20, logs bloom de 2.048 bits, eth_getLogs, limites de confiança |
 
 ## Como funciona
 
