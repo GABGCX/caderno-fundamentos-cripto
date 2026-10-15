@@ -74,6 +74,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 64 | [RANDAO, a Aleatoriedade do Consenso e os Cuidados com o PREVRANDAO](capitulos/64-randao-aleatoriedade-no-consenso-e-prevrandao.md) | randao_reveal e mistura por XOR, semente e sorteios, viés de um bit, proposer_lookahead (EIP-7917), PREVRANDAO (EIP-4399) e seus cuidados |
 | 65 | [Subjetividade Fraca e Checkpoint Sync, Por que um Nó Novo Precisa de um Ponto de Partida Confiável](capitulos/65-subjetividade-fraca-e-checkpoint-sync.md) | Ataque de longo alcance, checkpoint de subjetividade fraca, período e SAFETY_DECAY, tabela da especificação, checkpoint sync nos clientes, onde está a confiança |
 | 66 | [A Camada de Rede, Como os Nós se Encontram e Como Blocos e Atestações Viajam](capitulos/66-a-camada-de-rede-p2p-discv5-gossipsub-e-propagacao.md) | ENR, discv5 e distância XOR, RLPx e gossip de transações, gossipsub, 64 sub-redes de atestação, agregadores, Req/Resp |
+| 67 | [Tipos de Transação, o Envelope Tipado da EIP-2718 e Seus Cinco Formatos](capitulos/67-tipos-de-transacao-eip-2718-e-o-envelope-tipado.md) | Envelope TipoDaTransacao e carga, tipos 0 a 4, lista de acesso, preço efetivo com base fee, hashes versionados de blobs, delegação da EIP-7702 |
 
 ## Como funciona
 
