@@ -77,6 +77,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 67 | [Tipos de Transação, o Envelope Tipado da EIP-2718 e Seus Cinco Formatos](capitulos/67-tipos-de-transacao-eip-2718-e-o-envelope-tipado.md) | Envelope TipoDaTransacao e carga, tipos 0 a 4, lista de acesso, preço efetivo com base fee, hashes versionados de blobs, delegação da EIP-7702 |
 | 68 | [Eventos, Logs e Filtros de Bloom, Como um Contrato Deixa Rastro](capitulos/68-eventos-logs-e-filtros-de-bloom.md) | LOG0 a LOG4, tópicos vs. dados, parâmetros indexed, eventos anônimos, Transfer/Approval do ERC-20, logs bloom de 2.048 bits, eth_getLogs, limites de confiança |
 | 69 | [Contratos Atualizáveis, Proxies, DELEGATECALL e o Padrão UUPS](capitulos/69-contratos-atualizaveis-proxies-delegatecall-e-uups.md) | DELEGATECALL (EIP-7), posições da ERC-1967, proxy transparente, UUPS, beacon, clone mínimo (ERC-1167), inicializadores, storage namespaced (ERC-7201) |
+| 70 | [A Árvore Merkle Patricia por Dentro, Nós, Caminhos e Provas](capitulos/70-arvore-merkle-patricia-por-dentro-nos-caminhos-e-provas.md) | Nibbles, nós de ramo, folha e extensão, hex-prefix, RLP e embutimento abaixo de 32 bytes, as quatro árvores do protocolo, prova de Merkle |
 
 ## Como funciona
 
