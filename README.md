@@ -78,6 +78,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 68 | [Eventos, Logs e Filtros de Bloom, Como um Contrato Deixa Rastro](capitulos/68-eventos-logs-e-filtros-de-bloom.md) | LOG0 a LOG4, tópicos vs. dados, parâmetros indexed, eventos anônimos, Transfer/Approval do ERC-20, logs bloom de 2.048 bits, eth_getLogs, limites de confiança |
 | 69 | [Contratos Atualizáveis, Proxies, DELEGATECALL e o Padrão UUPS](capitulos/69-contratos-atualizaveis-proxies-delegatecall-e-uups.md) | DELEGATECALL (EIP-7), posições da ERC-1967, proxy transparente, UUPS, beacon, clone mínimo (ERC-1167), inicializadores, storage namespaced (ERC-7201) |
 | 70 | [A Árvore Merkle Patricia por Dentro, Nós, Caminhos e Provas](capitulos/70-arvore-merkle-patricia-por-dentro-nos-caminhos-e-provas.md) | Nibbles, nós de ramo, folha e extensão, hex-prefix, RLP e embutimento abaixo de 32 bytes, as quatro árvores do protocolo, prova de Merkle |
+| 71 | [O Contrato de Depósito do Staking e a Árvore de Merkle Incremental](capitulos/71-contrato-de-deposito-do-staking-e-arvore-de-merkle-incremental.md) | Contrato no endereço 0x0000...05Fa, prova de posse BLS na beacon chain, árvore de profundidade 32, mix-in de tamanho, votação em eth1_data, EIP-6110 |
 
 ## Como funciona
 
