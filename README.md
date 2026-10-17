@@ -80,6 +80,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 70 | [A Árvore Merkle Patricia por Dentro, Nós, Caminhos e Provas](capitulos/70-arvore-merkle-patricia-por-dentro-nos-caminhos-e-provas.md) | Nibbles, nós de ramo, folha e extensão, hex-prefix, RLP e embutimento abaixo de 32 bytes, as quatro árvores do protocolo, prova de Merkle |
 | 71 | [O Contrato de Depósito do Staking e a Árvore de Merkle Incremental](capitulos/71-contrato-de-deposito-do-staking-e-arvore-de-merkle-incremental.md) | Contrato no endereço 0x0000...05Fa, prova de posse BLS na beacon chain, árvore de profundidade 32, mix-in de tamanho, votação em eth1_data, EIP-6110 |
 | 72 | [SSZ, a Serialização e a Merkleização da Camada de Consenso](capitulos/72-ssz-serializacao-e-merkleizacao-do-consenso.md) | Tipos, deslocamentos de 4 bytes, bit delimitador do bitlist, pack e merkleize, limite e mix-in de comprimento, índices generalizados, multiprovas, resumos |
+| 73 | [Assinaturas BLS, a Matemática que Permite Somar Votos de Validadores](capitulos/73-assinaturas-bls-e-agregacao-de-atestacoes.md) | BLS12-381, chaves de 48 e assinaturas de 96 bytes, emparelhamento, FastAggregateVerify, aggregation_bits, domínios de assinatura, chave desonesta e prova de posse, EIP-2537 |
 
 ## Como funciona
 
