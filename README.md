@@ -82,6 +82,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 72 | [SSZ, a Serialização e a Merkleização da Camada de Consenso](capitulos/72-ssz-serializacao-e-merkleizacao-do-consenso.md) | Tipos, deslocamentos de 4 bytes, bit delimitador do bitlist, pack e merkleize, limite e mix-in de comprimento, índices generalizados, multiprovas, resumos |
 | 73 | [Assinaturas BLS, a Matemática que Permite Somar Votos de Validadores](capitulos/73-assinaturas-bls-e-agregacao-de-atestacoes.md) | BLS12-381, chaves de 48 e assinaturas de 96 bytes, emparelhamento, FastAggregateVerify, aggregation_bits, domínios de assinatura, chave desonesta e prova de posse, EIP-2537 |
 | 74 | [O Boom das ICOs de 2017, Quando Qualquer Contrato Virou Captação e a Regulação Respondeu](capitulos/74-o-boom-das-icos-de-2017-e-a-resposta-regulatoria.md) | Venda de ether de 2014, ERC-20 como combustível, escala de alguns bilhões de dólares, Relatório da DAO da SEC, teste de Howey, caso Munchee e o fim do rótulo utility |
+| 75 | [Mineração no Ethereum, o Ethash e a Bomba de Dificuldade](capitulos/75-mineracao-ethash-e-a-bomba-de-dificuldade.md) | Papel do minerador, cache e DAG do Ethash, memória difícil, ajuste da EIP-100, termo exponencial da bomba, adiamentos de Byzantium a Gray Glacier, cortes na recompensa |
 
 ## Como funciona
 
