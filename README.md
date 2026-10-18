@@ -85,6 +85,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 75 | [Mineração no Ethereum, o Ethash e a Bomba de Dificuldade](capitulos/75-mineracao-ethash-e-a-bomba-de-dificuldade.md) | Papel do minerador, cache e DAG do Ethash, memória difícil, ajuste da EIP-100, termo exponencial da bomba, adiamentos de Byzantium a Gray Glacier, cortes na recompensa |
 | 76 | [The Merge por Dentro, TTD, Bellatrix e Paris](capitulos/76-the-merge-por-dentro-ttd-bellatrix-e-paris.md) | Duas etapas, dificuldade total terminal (58750000000000000000000), bloco terminal e de transição, validate_merge_block, campos do cabeçalho, prev_randao, emissão e energia |
 | 77 | [Nonce, Chain ID e a Proteção contra Replay, Por que Uma Assinatura Só Vale Uma Vez](capitulos/77-nonce-chain-id-e-protecao-contra-replay.md) | Replay, nonce e ordem, substituição de pendentes, limite da EIP-2681, EIP-155 e Spurious Dragon, CHAINID, EIP-712 e replay fora da cadeia |
+| 78 | [Dencun além dos Blobs, TSTORE, SELFDESTRUCT e a Raiz da Beacon no EVM](capitulos/78-dencun-alem-dos-blobs-tstore-selfdestruct-e-beacon-root.md) | Pacote de nove EIPs, armazenamento transitório (EIP-1153), EIP-6780, MCOPY, raiz da beacon no contrato 4788, BLOBBASEFEE |
 
 ## Como funciona
 
