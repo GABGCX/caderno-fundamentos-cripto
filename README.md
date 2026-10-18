@@ -84,6 +84,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 74 | [O Boom das ICOs de 2017, Quando Qualquer Contrato Virou Captação e a Regulação Respondeu](capitulos/74-o-boom-das-icos-de-2017-e-a-resposta-regulatoria.md) | Venda de ether de 2014, ERC-20 como combustível, escala de alguns bilhões de dólares, Relatório da DAO da SEC, teste de Howey, caso Munchee e o fim do rótulo utility |
 | 75 | [Mineração no Ethereum, o Ethash e a Bomba de Dificuldade](capitulos/75-mineracao-ethash-e-a-bomba-de-dificuldade.md) | Papel do minerador, cache e DAG do Ethash, memória difícil, ajuste da EIP-100, termo exponencial da bomba, adiamentos de Byzantium a Gray Glacier, cortes na recompensa |
 | 76 | [The Merge por Dentro, TTD, Bellatrix e Paris](capitulos/76-the-merge-por-dentro-ttd-bellatrix-e-paris.md) | Duas etapas, dificuldade total terminal (58750000000000000000000), bloco terminal e de transição, validate_merge_block, campos do cabeçalho, prev_randao, emissão e energia |
+| 77 | [Nonce, Chain ID e a Proteção contra Replay, Por que Uma Assinatura Só Vale Uma Vez](capitulos/77-nonce-chain-id-e-protecao-contra-replay.md) | Replay, nonce e ordem, substituição de pendentes, limite da EIP-2681, EIP-155 e Spurious Dragon, CHAINID, EIP-712 e replay fora da cadeia |
 
 ## Como funciona
 
