@@ -87,6 +87,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 77 | [Nonce, Chain ID e a Proteção contra Replay, Por que Uma Assinatura Só Vale Uma Vez](capitulos/77-nonce-chain-id-e-protecao-contra-replay.md) | Replay, nonce e ordem, substituição de pendentes, limite da EIP-2681, EIP-155 e Spurious Dragon, CHAINID, EIP-712 e replay fora da cadeia |
 | 78 | [Dencun além dos Blobs, TSTORE, SELFDESTRUCT e a Raiz da Beacon no EVM](capitulos/78-dencun-alem-dos-blobs-tstore-selfdestruct-e-beacon-root.md) | Pacote de nove EIPs, armazenamento transitório (EIP-1153), EIP-6780, MCOPY, raiz da beacon no contrato 4788, BLOBBASEFEE |
 | 79 | [Contratos Pré-Compilados, as Ferramentas Matemáticas Embutidas na EVM](capitulos/79-contratos-pre-compilados-da-evm.md) | Endereços 0x01 a 0x11 e 0x100, ecrecover, ModExp (EIP-2565 e EIP-7883), alt_bn128 e EIP-1108, BLAKE2f, avaliação de ponto, BLS12-381, P256VERIFY, preço como defesa |
+| 80 | [Reentrância, o Padrão Checks-Effects-Interactions e as Travas de Reentrada](capitulos/80-reentrancia-checks-effects-interactions-e-travas.md) | Janela de controle na chamada externa, exemplo do cofre, CEI, transfer e send, ganchos do ERC-777, ReentrancyGuard e versão transitória (EIP-1153), caso Vyper/Curve de 2023 |
 
 ## Como funciona
 
