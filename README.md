@@ -86,6 +86,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 76 | [The Merge por Dentro, TTD, Bellatrix e Paris](capitulos/76-the-merge-por-dentro-ttd-bellatrix-e-paris.md) | Duas etapas, dificuldade total terminal (58750000000000000000000), bloco terminal e de transição, validate_merge_block, campos do cabeçalho, prev_randao, emissão e energia |
 | 77 | [Nonce, Chain ID e a Proteção contra Replay, Por que Uma Assinatura Só Vale Uma Vez](capitulos/77-nonce-chain-id-e-protecao-contra-replay.md) | Replay, nonce e ordem, substituição de pendentes, limite da EIP-2681, EIP-155 e Spurious Dragon, CHAINID, EIP-712 e replay fora da cadeia |
 | 78 | [Dencun além dos Blobs, TSTORE, SELFDESTRUCT e a Raiz da Beacon no EVM](capitulos/78-dencun-alem-dos-blobs-tstore-selfdestruct-e-beacon-root.md) | Pacote de nove EIPs, armazenamento transitório (EIP-1153), EIP-6780, MCOPY, raiz da beacon no contrato 4788, BLOBBASEFEE |
+| 79 | [Contratos Pré-Compilados, as Ferramentas Matemáticas Embutidas na EVM](capitulos/79-contratos-pre-compilados-da-evm.md) | Endereços 0x01 a 0x11 e 0x100, ecrecover, ModExp (EIP-2565 e EIP-7883), alt_bn128 e EIP-1108, BLAKE2f, avaliação de ponto, BLS12-381, P256VERIFY, preço como defesa |
 
 ## Como funciona
 
