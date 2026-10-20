@@ -90,6 +90,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 80 | [Reentrância, o Padrão Checks-Effects-Interactions e as Travas de Reentrada](capitulos/80-reentrancia-checks-effects-interactions-e-travas.md) | Janela de controle na chamada externa, exemplo do cofre, CEI, transfer e send, ganchos do ERC-777, ReentrancyGuard e versão transitória (EIP-1153), caso Vyper/Curve de 2023 |
 | 81 | [CREATE2 e os Endereços Determinísticos, Como Saber Onde um Contrato Vai Morar Antes de Ele Existir](capitulos/81-create2-e-enderecos-deterministicos.md) | Fórmula do CREATE2 (EIP-1014), endereços contrafactuais, fábrica singleton (ERC-2470), colisões (EIP-684), fim do truque metamórfico (EIP-6780) |
 | 82 | [Snap Sync e a Sincronização do Estado, Como um Nó Novo Chega ao Presente](capitulos/82-snap-sync-e-a-sincronizacao-do-estado.md) | Sincronização completa vs. snap, protocolo snap, pivô e faixas com prova, cura (healing), EIP-8189 (snap/2 com BALs), retenção, onde está a confiança |
+| 83 | [Saques do Staking, a Shapella e o Varrimento (Sweep) que Devolve o ETH](capitulos/83-saques-do-staking-shapella-e-o-sweep.md) | EIP-4895, estrutura do saque, BLS-to-execution-change, saque parcial vs. total, 16 por bloco, 256 épocas de espera, mudanças da Pectra |
 
 ## Como funciona
 
