@@ -92,6 +92,7 @@ Cada capítulo é pesquisado em fontes primárias (ethereum.org, documentação 
 | 82 | [Snap Sync e a Sincronização do Estado, Como um Nó Novo Chega ao Presente](capitulos/82-snap-sync-e-a-sincronizacao-do-estado.md) | Sincronização completa vs. snap, protocolo snap, pivô e faixas com prova, cura (healing), EIP-8189 (snap/2 com BALs), retenção, onde está a confiança |
 | 83 | [Saques do Staking, a Shapella e o Varrimento (Sweep) que Devolve o ETH](capitulos/83-saques-do-staking-shapella-e-o-sweep.md) | EIP-4895, estrutura do saque, BLS-to-execution-change, saque parcial vs. total, 16 por bloco, 256 épocas de espera, mudanças da Pectra |
 | 84 | [O Ciclo de Vida do Validador, Saldo Efetivo e Histerese](capitulos/84-ciclo-de-vida-do-validador-saldo-efetivo-e-histerese.md) | Quatro datas no registro, depósito pendente, ativação após 5 épocas, churn em ETH, saldo efetivo, histerese de 0,25 e 1,25 ETH, ejeção aos 16 ETH |
+| 85 | [Slashing por Dentro, Penalidade Inicial, Correlação e o Prêmio do Denunciante](capitulos/85-slashing-por-dentro-penalidade-inicial-correlacao-e-denunciante.md) | Quem é cortável, `slash_validator`, quarentena de 8.192 épocas, divisores 128 a 4.096, multiplicador 3, penalidade de correlação, prêmio do denunciante |
 
 ## Como funciona
 
